@@ -27,14 +27,17 @@ Success Criteria.
 - 1 Failed
 
 
+href Apontando para Arquivo de Imagem	1.3.1: Info and Relationships, 2.4.4: Link Purpose (In Context)	Moderada	Redirecionar href para uma página que exiba a imagem, ou usar target="_blank" para abrir em uma nova aba.
+
+
 ## Report Homepage
 Page: https://www.murciasalud.es/
 
-| Problem | Description | Success Criteria | Success Criteria | Soluction |
+| Problem + Description | Success Criteria | Priority | Soluction | Observation |
 | :---         | :---           | :---          | :---         | :---         | 
-| git status   | Adding a link at the top of each page that goes directly to the main content area | [2.4.1: Bypass Blocks (A)](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) |
-| git diff     | git diff       | [4.1.2: Nome,Role,Valeu (A)](https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html)      |
-| git diff     | git diff       | [4.1.2: Nome,Role,Valeu (A)](https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html)      |
+| Atributo lang definido como en-GB enquanto o conteúdo está em espanhol | [2.4.1: Bypass Blocks (A)](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) | Moderada | Alterar para lang="es-ES" para refletir o idioma do conteúdo. |
+| **Uso inadequado de aria-level** usar aria-level é redundante quando se usa um cabeçalho HTML que já tem um nível de hierarquia definido.| [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta | Remover aria-level e usar apenas cabeçalhos | Teste  |
+| href Apontando para Arquivo de Imagem    | [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta  | Remover o link da imagem e criar um card com um link esticado | Observation  |
 | git diff     | The HTML heading element has an explicit aria-level="..." attribute.       | [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)      |
 
 ## Report Contacto
