@@ -33,9 +33,11 @@ href Apontando para Arquivo de Imagem	1.3.1: Info and Relationships, 2.4.4: Link
 ## Report Homepage
 Page: https://www.murciasalud.es/
 
+
+
 | Problem + Description | Success Criteria | Priority | Soluction | Observation |
 | :---         | :---           | :---          | :---         | :---         | 
-| Atributo lang definido como en-GB enquanto o conteúdo está em espanhol | [2.4.1: Bypass Blocks (A)](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) | Moderada | Alterar para lang="es-ES" para refletir o idioma do conteúdo. |
+| Atributo lang definido como en-GB enquanto o conteúdo está em espanhol | [2.4.1: Bypass Blocks (A)](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) | Moderada | Alterar para lang="es-ES" para refletir o idioma do conteúdo. | ![Descrição](./Capturadeecrã2024-11-05,às23.32.51.png) |
 | **Uso inadequado de aria-level** usar aria-level é redundante quando se usa um cabeçalho HTML que já tem um nível de hierarquia definido.| [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta | Remover aria-level e usar apenas cabeçalhos | Teste  |
 | href Apontando para Arquivo de Imagem    | [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta  | Remover o link da imagem e criar um card com um link esticado | Observation  |
 | git diff     | The HTML heading element has an explicit aria-level="..." attribute.       | [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)      |
