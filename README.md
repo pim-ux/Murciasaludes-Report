@@ -41,6 +41,7 @@ Link: https://www.murciasalud.es/
 | `href` Apontando para Arquivo de Imagem    | [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta  | Remover o link (`<a href="...">`), deixar apenas a `<img>` com `alt=""` (`alt` vazio) pois é uma imagem decorativa | <img width="1086" alt="Captura de ecrã 2024-11-06, às 01 55 07" src="https://github.com/user-attachments/assets/952bbb55-090a-41c3-a451-7eab9e039e84"> |
 | **Card com múltiplos links (um na imagem e outro no texto "leer más")** Navegação inconsistente: ao navegar por links, há 2 links diferentes que levam ao mesmo destino. | [1.3.1: Info and relationships (A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta | O card deve ter apenas um único link que cubra toda a área clicável  [Exemplo construção](https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_card_link&stacked=h)| <img width="1209" alt="Navegação por links com links duplicados" src="https://github.com/user-attachments/assets/a3049fff-9a98-4c05-b6f1-a13cf5cc528d"> |
 | **Cabeçalhos escondidos, apenas disponíveis para leitores de ecrã.**  | [2.4.6: Cabeçalhos e Rótulos (AA)](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html) | Moderada | A hierarquia e a organização do conteúdo deveriam ser compreensíveis tanto visualmente quanto para quem usa leitores de ecrã. | <img width="1143" alt="Leitor de ecrã titulos escondidos" src="https://github.com/user-attachments/assets/c5f91290-1608-4b68-850c-1e6916a4ed9c">|
+
 <br>
 <br>
 
