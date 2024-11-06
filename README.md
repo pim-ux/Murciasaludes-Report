@@ -28,9 +28,9 @@ Success Criteria.
 ## List bug  
 
 ### Homepage
-Page: https://www.murciasalud.es/
-
-
+Link: https://www.murciasalud.es/
+<br>
+<br>
 | Problem + Description | Success Criteria | Priority | Soluction | Observation |
 | :---         | :---           | :---          | :---         | :---         | 
 | **Falta de link "Saltar para o conteúdo principal"**  | [2.4.1: Bypass Blocks (A)](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) | Alta | Adicionar um link visível e acessível no topo de cada página que permita saltar diretamente para o conteúdo principal `<a href="#conteudo-principal">Saltar para o conteúdo principal</a><main id="conteudo-principal"></main>`| |
@@ -42,13 +42,29 @@ Page: https://www.murciasalud.es/
 | **Cabeçalhos escondidos, apenas disponíveis para leitores de ecrã.**  | [2.4.6: Cabeçalhos e Rótulos (AA)](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html) | Moderada | A hierarquia e a organização do conteúdo deveriam ser compreensíveis tanto visualmente quanto para quem usa leitores de ecrã. | <img width="1143" alt="Captura de ecrã 2024-11-05, às 23 32 51" src="https://github.com/user-attachments/assets/c5f91290-1608-4b68-850c-1e6916a4ed9c"> |
 
 
+<br>
+<br>
+<br>
 
-### Report Contacto
-Page: https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto
+### Contacto
+Link: https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto
+<br>
+<br>
 
+| Problem + Description | Success Criteria | Priority | Soluction | Observation |
+| :---         | :---           | :---          | :---         | :---         | 
+| **Falta required**  | [1.4.1: Use of Color  (A)](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color) | Alta |  | |
 
+<br>
+<br>
+<br>
 
-### Report Contacto
-Page: https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto
+### Información sobre Historia Clínica Nacional y Europea
+Link: https://www.murciasalud.es/en/informacion-sobre-hcdsns-ps
+<br>
+<br>
 
-WCAG Critério 1.4.1: A cor não deve ser o único meio utilizado para transmitir informação, indicar uma ação, pedir uma resposta ou distinguir um elemento visual. Ou seja, se a hiperligação tem a mesma cor do texto, deve haver outro indicador, como sublinhado, para diferenciá-la do texto normal.
+| Problem + Description | Success Criteria | Priority | Soluction | Observation |
+| :---         | :---           | :---          | :---         | :---         | 
+| **As hiperligações só se diferenciam do texto normal pela cor**  | [1.4.1: Use of Color  (A)](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color) | Moderada | Usar o sublinhado para links no meio do texto| <img width="1302" alt="Captura de ecrã 2024-11-06, às 02 09 28" src="https://github.com/user-attachments/assets/dc2b0438-03d6-4995-a11f-433b9e056723">|
+
