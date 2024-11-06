@@ -55,9 +55,8 @@ Link: https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto
 | Problem + Description | Success Criteria | Priority | Soluction | Observation |
 | :---         | :---           | :---          | :---         | :---         | 
 | **Falta required**  | [1.3.1: Info and Relationships  (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta | Adicionar required ao campo de input `<input class="ddm-field-text form-control" name="NombreYApellidos" type="text" required id="formInput_0">`| |
-| **A associação entre o input e label deveria ser feita de forma semântica**  | [1.3.1: Info and Relationships  (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta | O uso de `aria-describedby` é útil para associar mensagens de erro ou informações extras ao campo, mas a associação entre o input e o label deve ser feita com o uso de for no `<label>` e id no `<input>`.| |
+| **A associação entre o input e label deveria ser feita de forma semântica**  | [1.3.1: Info and Relationships  (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html) | Alta | O uso de `aria-describedby` é útil para associar mensagens de erro ou informações extras ao campo, mas a associação entre o input e o label deve ser feita com o uso de for no `<label>` e id no `<input>`.||
 
-<br>
-<br>
+
 
 
