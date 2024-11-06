@@ -26,14 +26,8 @@ Success Criteria.
 - 0 Passed
 - 1 Failed
 
-
-href Apontando para Arquivo de Imagem	1.3.1: Info and Relationships, 2.4.4: Link Purpose (In Context)	Moderada	Redirecionar href para uma página que exiba a imagem, ou usar target="_blank" para abrir em uma nova aba.
-
-
 ## Report Homepage
 Page: https://www.murciasalud.es/
-
-Falta de link "Saltar para o conteúdo principal"	2.4.1: Bypass Blocks	Alta	Adicionar um link visível e acessível no topo de cada página que permita saltar diretamente para o conteúdo principal.
 
 
 | Problem + Description | Success Criteria | Priority | Soluction | Observation |
