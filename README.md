@@ -6,7 +6,7 @@
 
 ## Scope
 
-**Website:** [](https://www.murciasalud.es/)
+**Website:**   [https://www.murciasalud.es/](https://www.murciasalud.es/)
 
 **Scope of the website:** Portal oficial do Servicio Murciano de Salud
 
