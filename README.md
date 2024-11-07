@@ -6,7 +6,7 @@
 
 ## Scope
 
-**Website:** https://www.murciasalud.es/
+**Website:** [](https://www.murciasalud.es/)
 
 **Scope of the website:** Portal oficial do Servicio Murciano de Salud
 
@@ -28,7 +28,7 @@ Success Criteria.
 ## List bug  
 
 ### Homepage
-Link: https://www.murciasalud.es/
+[View page](https://www.murciasalud.es/)
 <br>
 <br>
 
@@ -48,7 +48,7 @@ Link: https://www.murciasalud.es/
 <br>
 
 ### Contacto
-Link: https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto
+[View page](https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto)
 <br>
 <br>
 
